@@ -1,0 +1,25 @@
+{
+    "name": "x-hete-license-6-h-45",
+    "version": "1.0.0",
+    "description": "[BUILD AGENT GENERATED]:  React-based dashboard that displays a multi-level pivot table showing customer license allocation data with columns for Customer Name, rows for License SKU, and aggregated sum of allocated units",
+    "license": "UNLICENSED",
+    "scripts": {
+        "build": "now-sdk build",
+        "deploy": "now-sdk install",
+        "transform": "now-sdk transform",
+        "types": "now-sdk dependencies"
+    },
+    "devDependencies": {
+        "@servicenow/sdk": "4.0.2",
+        "@servicenow/glide": "26.0.1",
+        "eslint": "8.50.0",
+        "@servicenow/eslint-plugin-sdk-app-plugin": "4.0.2"
+    },
+    "dependencies": {
+        "react": "18.2.0",
+        "react-dom": "18.2.0",
+        "xlsx": "0.18.5",
+        "jspdf": "2.5.1",
+        "html2canvas": "1.4.1"
+    }
+}
