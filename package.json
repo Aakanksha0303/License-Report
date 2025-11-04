@@ -1,7 +1,7 @@
 {
     "name": "x-hete-license-6-h-45",
     "version": "1.0.0",
-    "description": "[BUILD AGENT GENERATED]:  React-based dashboard that displays a multi-level pivot table showing customer license allocation data with columns for Customer Name, rows for License SKU, and aggregated sum of allocated units",
+    "description": "[BUILD AGENT GENERATED]: React-based dashboard that displays a multi-level pivot table showing customer license allocation data with columns for Customer Name, rows for License SKU, and aggregated sum of allocated units",
     "license": "UNLICENSED",
     "scripts": {
         "build": "now-sdk build",
